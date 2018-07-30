@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android:flexbox-0.2.7">
+    <CLASSES>
+      <root url="jar://H:/androidGradle/caches/transforms-1/files-1.1/flexbox-0.2.7.aar/f93648ec7ee4b47b36fb503f19bc66cd/jars/classes.jar!/" />
+      <root url="file://H:/androidGradle/caches/transforms-1/files-1.1/flexbox-0.2.7.aar/f93648ec7ee4b47b36fb503f19bc66cd/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://H:/androidGradle/caches/modules-2/files-2.1/com.google.android/flexbox/0.2.7/be712e69ed214b7a43e34847a918be94cf12aa89/flexbox-0.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

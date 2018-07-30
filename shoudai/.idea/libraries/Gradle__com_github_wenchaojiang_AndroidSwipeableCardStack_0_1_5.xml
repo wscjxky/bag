@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.wenchaojiang:AndroidSwipeableCardStack-0.1.5">
+    <CLASSES>
+      <root url="file://H:/androidGradle/caches/transforms-1/files-1.1/AndroidSwipeableCardStack-0.1.5.aar/fc8ebc2d4ef5113282e50ab74aa32202/res" />
+      <root url="jar://H:/androidGradle/caches/transforms-1/files-1.1/AndroidSwipeableCardStack-0.1.5.aar/fc8ebc2d4ef5113282e50ab74aa32202/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://H:/androidGradle/caches/modules-2/files-2.1/com.github.wenchaojiang/AndroidSwipeableCardStack/0.1.5/9fe9e0a2f5a01da7e5e5d79697fea5d240551422/AndroidSwipeableCardStack-0.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
